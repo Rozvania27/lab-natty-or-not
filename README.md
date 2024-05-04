@@ -1,48 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Evolução da Inteligência Artificial (IA) 
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+Explorando o potencial dessas tendências tecnológicas incríveis! 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## 🎯 Bora Pro Desafio ... 💪🤓
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+A apresentação aborda a evolução histórica da Inteligência Artificial, desde seu surgimento até os dias atuais. Ela explora as cinco principais fases dessa evolução, destaca o impacto atual da IA em áreas como assistentes virtuais e veículos autônomos, discute questões éticas e regulatórias emergentes e explora as perspectivas futuras da IA, incluindo avanços potenciais e desafios.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Foi utilzado o [Gamma](https://gamma.app/?lng=en) para a criação dos slides, sem nenhum custo inicial e com auxilio do [chatGPT](https://chatgptbrasil.com.br/talk.php) que forneceu insights valiosos sobre a evolução da Inteligência Artificial.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Os slides foram preparados com o auxílio do ChatGPT da OpenAI, que forneceu insights valiosos sobre a evolução da Inteligência Artificial, contribuindo para tornar esta apresentação mais abrangente e informativa. Em seguida, utilizei o site Gamma para concluir o projeto, incorporando imagens disponibilizadas pela própria plataforma e selecionando um tema pré-definido. Combinei as ideias fornecidas pelo ChatGPT, o que me permitiu finalizar o projeto de forma rápida e eficiente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue o link do projeto: https://gamma.app/docs/Evolucao-da-Inteligencia-Artificial-wlfv174zhr1q7pk
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi uma experiência divertida e introdutória do curso Fundamentos de IA pela [DIO](https://auth.dio.me/realms/master/protocol/openid-connect/auth?client_id=spa-core-client&redirect_uri=https%3A%2F%2Fweb.dio.me%2Fhome&state=04cc689c-ee31-483f-83f4-435c612ce952&response_mode=fragment&response_type=code&scope=openid&nonce=f1322ac9-68d6-448f-b43d-5da244e0086a) onde pude conhecer e utilizar um pouco das IAs disponíveis para testes. Com isso, obtive algumas ideias inovadoras para criação de projetos futuros.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
